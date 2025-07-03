@@ -16,7 +16,7 @@
 
 ## 🛠 技术栈
 
-![技能](https://skillicons.dev/icons?i=go,py,java,redis,mysql,docker,git,linux)
+![技能](https://skillicons.dev/icons?i=go,py,redis,mysql,docker,git,linux)
 
 ## 📝 博客
 
