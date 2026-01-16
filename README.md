@@ -14,26 +14,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-![GitHub数据](https://github-readme-stats.vercel.app/api?username=KOIOIO&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=cn)
-
-![最常使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=KOIOIO&layout=compact&theme=radical&hide_border=true&locale=cn)
-
-</div>
-
 ## 🌱 当前学习
 - 数据库系统原理
 - 计算机网络深入
 - 微服务系统搭建
 
 ## 💼 目前的项目
-✅ [ShortUrl](https://github.com/KOIOIO/shorturl) - 短链接生成器 
-✅ [wwyhahablog](https://github.com/KOIOIO/MyBlog) - 基于Golang的博客系统  
-✅ [answersheet](https://github.com/KOIOIO/answer_cord) - 答题卡识别系统  
+✅ [ShortUrl](https://github.com/KOIOIO/shorturl) - 短链接生成器
+✅ [wwyhahablog](https://github.com/KOIOIO/MyBlog) - 基于Golang的博客系统
+✅ [answersheet](https://github.com/KOIOIO/answer_cord) - 答题卡识别系统
 
 ## 💬 技术咨询
 欢迎交流以下话题：
