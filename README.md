@@ -68,20 +68,6 @@ I'm a backend developer focused on Go microservices and AI-powered systems. I en
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ichliebedich-X&show_icons=true&theme=graywhite" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichliebedich-X&layout=compact&theme=graywhite" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichliebedich-X&theme=graywhite" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ichliebedich-X&theme=graywhite" />
-</p>
-
 #### Get in Touch
 
 - GitHub: [@KOIOIO](https://github.com/KOIOIO)
